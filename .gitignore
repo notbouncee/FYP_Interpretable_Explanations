@@ -1,0 +1,35 @@
+# Virtual environments
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+.eggs/
+wheelhouse/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# IDE & editor settings
+.idea/
+.vscode/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Logs & diagnostics
+*.log
+logs/
+
+# OS-specific clutter
+.DS_Store
+Thumbs.db

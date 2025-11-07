@@ -1,0 +1,19 @@
+# Core deep learning stack
+torch >= 2.9.0
+torchvision >= 0.24.0
+torchaudio >= 2.9.0
+
+# Graph neural network tooling (GCN, GNN Explainer)
+torch-geometric >= 2.7.0
+
+# Training, evaluation, and utilities
+numpy >= 2.3.4
+scipy >= 1.16.3
+scikit-learn >= 1.7.2
+pandas >= 2.3.3
+matplotlib >= 3.10.7
+networkx >= 3.5.0
+tqdm >= 4.67.1
+tensorboard >= 2.20.0
+pyyaml >= 6.0.3
+joblib >= 1.5.2
